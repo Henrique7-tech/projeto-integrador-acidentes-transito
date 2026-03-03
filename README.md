@@ -4,7 +4,7 @@ Projeto de Análise de Dados
 Acidentes Rodoviários no Brasil (PRF 2015–2022)
 
 
-1. Definição da Base de Dados
+1. DEFINIÇÃO DA BASE DE DADOS
 
 Base pública de acidentes rodoviários da Polícia Rodoviária Federal (PRF).
 https://www.kaggle.com/datasets/rafaelborgesgraunke/traffic-accidents-brazil-pt-br
@@ -22,7 +22,7 @@ A base contém registros detalhados de acidentes ocorridos em rodovias federais 
 O objetivo é analisar os acidentes nas rodovias federais brasileiras para identificar padrões, principais causas e fatores associados à gravidade dos acidentes.
 
 
-2. Divisão de Tarefas (4 integrantes)
+2. DIVISÃO DE TAREFAS (4 integrantes)
 
 Henrique — Coleta e organização dos dados
 
@@ -61,7 +61,7 @@ Mariucha — Dashboard e documentação
 - Documentação do projeto no README.md
 
 
-3. Cronograma do Projeto
+3. CRONOGRAMA DO PROJETO
 
 Semana 1
 
@@ -85,7 +85,7 @@ Semana 4
 - Finalização da documentação
 
 
-4. Visualizações e métricas do dashboard
+4. VISUALIZAÇÕES E MÉTRICAS DO DASHBOARD
 
 Visualizações
 
