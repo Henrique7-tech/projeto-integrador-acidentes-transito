@@ -1,5 +1,3 @@
-```text
-    pandas
-    matplotlib
-    seaborn
-    ```
+ pandas
+ matplotlib
+ seaborn
