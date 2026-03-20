@@ -1,5 +1,7 @@
 #  Análise Estratégica do Catálogo Netflix
 
+Base de dados: https://www.kaggle.com/datasets/shivamb/netflix-shows/data
+
 O objetivo é realizar uma análise exploratória de dados (EDA) utilizando para entender o perfil de conteúdo e a estratégia de atualização da plataforma Netflix.
 
 ---
