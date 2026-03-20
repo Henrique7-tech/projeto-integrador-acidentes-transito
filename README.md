@@ -10,7 +10,7 @@ Base pública de acidentes rodoviários da Polícia Rodoviária Federal (PRF).
 https://www.kaggle.com/datasets/rafaelborgesgraunke/traffic-accidents-brazil-pt-br
 
 
-A base contém registros detalhados de acidentes ocorridos em rodovias federais brasileiras entre 2015 e 2022, incluindo informações como:
+A base contém registros detalhados de acidentes ocorridos em rodovias federais brasileiras entre 2007 e 2022, incluindo informações como:
 
 - Data e horário do acidente
 - Estado e município
@@ -19,7 +19,9 @@ A base contém registros detalhados de acidentes ocorridos em rodovias federais 
 - Causa do acidente
 - Número de feridos e mortos
 
-O objetivo é analisar os acidentes nas rodovias federais brasileiras para identificar padrões, principais causas e fatores associados à gravidade dos acidentes.
+O objetivo é analisar os acidentes nas rodovias federais brasileiras para identificar padrões, principais causas e fatores associados à gravidade dos acidentes. 
+
+Utilizaremos os dados entre 2015 e 2022.
 
 
 2. DIVISÃO DE TAREFAS (4 integrantes)
