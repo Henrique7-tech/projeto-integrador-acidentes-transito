@@ -1,107 +1,33 @@
-# projeto-integrador-acidentes-transito
+#  Análise Estratégica do Catálogo Netflix
 
-Projeto de Análise de Dados
-Acidentes Rodoviários no Brasil (PRF 2015–2022)
+O objetivo é realizar uma análise exploratória de dados (EDA) utilizando para entender o perfil de conteúdo e a estratégia de atualização da plataforma Netflix.
 
+---
 
-1. DEFINIÇÃO DA BASE DE DADOS
+##  Objetivos da Análise
 
-Base pública de acidentes rodoviários da Polícia Rodoviária Federal (PRF).
-https://www.kaggle.com/datasets/rafaelborgesgraunke/traffic-accidents-brazil-pt-br
+Buscamos responder perguntas estratégicas sobre o catálogo:
 
+1.  **Janela de Lançamento:** Qual o tempo médio entre o lançamento original de uma obra e sua chegada ao catálogo?
+2.  **Ciclo de Vida das Séries:** A Netflix foca em séries de longa duração ou em produções de temporada única?
+3.  **Perfil de Audiência:** O catálogo é majoritariamente voltado para qual faixa etária (Rating)?
+4.  **Padrão de Duração:** Qual a duração média dos filmes e como isso variou nos últimos anos?
 
-A base contém registros detalhados de acidentes ocorridos em rodovias federais brasileiras entre 2007 e 2022, incluindo informações como:
+---
 
-- Data e horário do acidente
-- Estado e município
-- Tipo de acidente
-- Condição meteorológica
-- Causa do acidente
-- Número de feridos e mortos
+##  Equipe
 
-O objetivo é analisar os acidentes nas rodovias federais brasileiras para identificar padrões, principais causas e fatores associados à gravidade dos acidentes. 
+* **Felipe Yudi Higashi (Engenharia):** Limpeza de dados, tratamento de valores nulos e criação de colunas temporais (`years_to_netflix`).
+* **Mariucha Jobim (Análise de Filmes):** Estudo de métricas de duração, médias, medianas e tendências de tempo dos filmes.
+* **Andrey de Souza Sezário (Análise de Séries):** Estudo de volumetria de temporadas e taxa de retenção/renovação de séries.
+* **Henrique Nascimento de Souza (Qualidade e Documentação):** Análise de perfil de público (Rating), consolidação dos insights e organização do repositório.
 
-Utilizaremos os dados entre 2015 e 2022.
+---
 
+##  Cronograma de Execução
 
-2. DIVISÃO DE TAREFAS (4 integrantes)
+| **Fase 1** | Estruturação do GitHub e README | Todos |  Concluído |
+| **Fase 2** | Limpeza e Preparação do Dataset | Felipe | Em espera |
+| **Fase 3** | Análise Técnica e Gráficos | Mariucha e Andrey | Em espera |
+| **Fase 4** | Consolidação de Insights e Entrega | Henrique | Em espera |
 
-Henrique — Coleta e organização dos dados
-
-- Obter a base de dados
-- Organizar os arquivos no repositório
-- Verificar estrutura das colunas
-- Preparar o dataset bruto para tratamento
-
-
-Felipe — Tratamento e transformação dos dados
-
-- Limpeza dos dados
-- Tratamento de valores nulos
-- Padronização de formatos (datas, categorias etc.)
-- Criação de colunas derivadas como:
-- ano
-- mês
-- dia da semana
-- período do dia
-
-
-Andrey — Análise exploratória
-
-- Identificação de padrões e tendências
-- Cálculo de estatísticas descritivas
-- Identificação das principais causas de acidentes
-- Avaliação da gravidade dos acidentes
-
-
-Mariucha — Dashboard e documentação
-
-
-- Construção do dashboard
-- Criação das visualizações
-- Organização da narrativa dos dados
-- Documentação do projeto no README.md
-
-
-3. CRONOGRAMA DO PROJETO
-
-Semana 1
-
-- Definição da base de dados
-- Organização do repositório
-- Análise inicial da base
-
-Semana 2
-
-- Limpeza e tratamento dos dados
-- Criação de novas variáveis
-
-Semana 3
-
-- Análise exploratória dos dados
-- Definição das métricas e visualizações
-
-Semana 4
-
-- Construção do dashboard
-- Finalização da documentação
-
-
-4. VISUALIZAÇÕES E MÉTRICAS DO DASHBOARD
-
-Visualizações
-
-- Evolução do número de acidentes por ano
-- Acidentes por estado
-- Ranking das principais causas
-- Distribuição por horário do dia
-- Comparação entre acidentes com vítimas e sem vítimas
-
-
-Métricas
-
-- Total de acidentes
-- Total de feridos
-- Total de mortos
-- Taxa de mortalidade nos acidentes
-- Média de acidentes por dia
