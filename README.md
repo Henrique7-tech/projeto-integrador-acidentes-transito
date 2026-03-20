@@ -33,7 +33,10 @@ Buscamos responder perguntas estratégicas sobre o catálogo:
 ##  Cronograma de Execução
 
 | **Fase 1** | Estruturação do GitHub e README | Todos |  Concluído |
+
 | **Fase 2** | Limpeza e Preparação do Dataset | Felipe | Em espera |
+
 | **Fase 3** | Análise Técnica e Gráficos | Mariucha e Andrey | Em espera |
+
 | **Fase 4** | Consolidação de Insights e Entrega | Henrique | Em espera |
 
