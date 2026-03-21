@@ -42,3 +42,28 @@ Buscamos responder perguntas estratégicas sobre o catálogo:
 
 | **Fase 4** | Consolidação de Insights e Entrega | Henrique | Em espera |
 
+---
+
+### Planejamento de Transformações 
+
+Para que as análises sejam precisas, realizaremos as seguintes manipulações:
+
+* **Conversão de Datas:** Transformar a coluna date_added para o formato de data (YYYY-MM-DD).
+
+* **Cálculo de Janela:** Criar uma nova métrica subtraindo o release_year do ano de adição no catálogo.
+
+* **Tratamento de Texto:** Limpar a coluna duration para separar valores numéricos de unidades (minutos vs temporadas).
+
+---
+
+### Planejamento de Visualizações (Dashboard)
+
+Pretendemos apresentar os seguintes indicadores:
+
+* **Gráfico de Barras:** Distribuição de títulos por rating (Público-alvo).
+
+* **Gráfico de Linhas:** Evolução da duração média dos filmes ao longo dos anos.
+
+* **Histograma:** Frequência do tempo de espera (Janela de Lançamento).
+
+* **Gráfico de Rosca:** Proporção entre produções de temporada única e séries longevas.
