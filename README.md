@@ -20,6 +20,16 @@ Buscamos responder perguntas estratégicas sobre o catálogo:
 
 ---
 
+## Estrutura de Pastas
+
+**dados/raw/**: Contém o arquivo original netflix_titles.csv
+
+**dados/processed/**: Contém o arquivo limpo netflix_clean.csv
+
+**notebooks/**: Contém o código Python de tratamento de dados
+
+---
+
 ##  Equipe
 
 * **Felipe Yudi Higashi (Engenharia):** Limpeza de dados, tratamento de valores nulos e criação de colunas temporais.
