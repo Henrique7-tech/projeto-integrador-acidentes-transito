@@ -54,7 +54,7 @@ Buscamos responder perguntas estratégicas sobre o catálogo:
 
 ---
 
-### Planejamento de Transformações 
+## Planejamento de Transformações 
 
 Para que as análises sejam precisas, realizaremos as seguintes manipulações:
 
@@ -66,7 +66,7 @@ Para que as análises sejam precisas, realizaremos as seguintes manipulações:
 
 ---
 
-### Planejamento de Visualizações (Dashboard)
+## Planejamento de Visualizações (Dashboard)
 
 Pretendemos apresentar os seguintes indicadores:
 
